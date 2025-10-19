@@ -1,0 +1,6 @@
+service_type,Total_Orders,Cancelled,Completed,No Driver Found,Other
+BOX,305,30.16%,30.16%,30.16%,9.51%
+FOOD,318,28.93%,28.93%,28.93%,13.21%
+MARKET,247,37.25%,37.25%,23.08%,2.43%
+RIDE,336,27.38%,27.38%,27.38%,17.86%
+TRUCK,280,32.86%,32.86%,32.86%,1.43%
