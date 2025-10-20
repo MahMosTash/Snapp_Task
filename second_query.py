@@ -12,6 +12,8 @@ query = """
             SELECT TerminationDate AS the_date
             FROM employee
             WHERE TerminationDate IS NOT NULL
+            # UNION
+            # SELECT date('now') AS the_date
         ),
 
          ordered_dates AS (
